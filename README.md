@@ -115,15 +115,6 @@ fitfreak/
 4. **Feedback**: Immediate visual and textual corrections
 5. **Tracking**: Performance metrics and progress analytics
 
-## 📊 Sample Output
-
-```
-Reps: 12
-Position: UP
-Accuracy: 87.3% (Improving!)
-Perfect reps: 8/12 | Consistent!
-
-Current Feedback: "Great form! Control the movement"
 
 
 ### Customizable Parameters
